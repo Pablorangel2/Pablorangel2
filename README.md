@@ -1,7 +1,8 @@
 Ola, me chamo Pablo.
-Atualmente sou estudando na area de tecnologia.
+Atualmente sou estudante na area da tecnologia, mais precisamente progamação!
 Estudo e pratico diariamente como se fosse um hobby.
 Meu interesse atualmente e aprimorar minha logica e obter o maximo de conhecimento possivel sobre determinadas linguagens.
+
 
 
 <!---
